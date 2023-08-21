@@ -1,0 +1,7 @@
+{
+    "buy_threshold": 0.0005,
+    "sell_threshold": 0.0005,
+    "bank_balance": 100,
+    "wait_time": 60,
+    "crypto_symbol": "bitcoin"
+}
